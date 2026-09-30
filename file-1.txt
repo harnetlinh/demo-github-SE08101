@@ -1,1 +1,1 @@
-harnet.linh on all sessions on every devices
+harnet.linh on all sessions on every devices and logout
